@@ -1,0 +1,1 @@
+ARTICLE_FILE_PREFIX = 'article'
